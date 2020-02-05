@@ -1,5 +1,5 @@
-# Џишем Android-приложение с нулЯ на Jetpack + Kotlin. —асть 2
+п»ї# РџРёС€РµРј Android-РїСЂРёР»РѕР¶РµРЅРёРµ СЃ РЅСѓР»СЏ РЅР° Jetpack + Kotlin. Р§Р°СЃС‚СЊ 2
 
-[Џишем Android-приложение с нулЯ на Jetpack + Kotlin. —асть 2](https://youtu.be/1YLWWgTvoUE) <br>
-‚тораЯ часть.<br>
-!‚ CarryViewModel можно переключить источник данных из сети (val SOURCE = "Database"), или из Ѓ„ через Room (val SOURCE = "DB").
+[РџРёС€РµРј Android-РїСЂРёР»РѕР¶РµРЅРёРµ СЃ РЅСѓР»СЏ РЅР° Jetpack + Kotlin. Р§Р°СЃС‚СЊ 2](https://youtu.be/1YLWWgTvoUE) <br>
+Р’С‚РѕСЂР°СЏ С‡Р°СЃС‚СЊ.<br>
+!Р’ CarryViewModel РјРѕР¶РЅРѕ РїРµСЂРµРєР»СЋС‡РёС‚СЊ РёСЃС‚РѕС‡РЅРёРє РґР°РЅРЅС‹С… РёР· СЃРµС‚Рё (val SOURCE = "Database"), РёР»Рё РёР· Р‘Р” С‡РµСЂРµР· Room (val SOURCE = "DB").
